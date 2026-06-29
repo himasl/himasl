@@ -137,15 +137,3 @@ Hackathon backend service for the SPB case “Liquidity Search”, developed dur
 - Backend + QA trainee position
 
 [⬆️ Back to top](#привет-я-никита-коробков-)
-
----
-
-## 📊 GitHub статистика / GitHub stats
-
-<div align="center">
-
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=himasl&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himasl&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
