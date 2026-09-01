@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Обо мне
 
-Я студент 1 курса Финансового университета при Правительстве РФ, факультет ИТиАБД, направление «Прикладная математика и информатика».
+Я студент 2 курса Финансового университета при Правительстве РФ, факультет ИТиАБД, направление «Прикладная математика и информатика».
 
 Интересуюсь backend-разработкой, проектированием API, QA-тестированием и анализом данных.  
 Работаю с Python и FastAPI, изучаю практики тестирования и развиваюсь в Data Science.
@@ -83,7 +83,7 @@ Backend-сервис для кейса СПБ «Поиск ликвидност�
 
 ### 👨‍💻 About me
 
-I am a 1st-year student at the Financial University under the Government of the Russian Federation, studying Applied Mathematics and Computer Science.
+I am a 2nd-year student at the Financial University under the Government of the Russian Federation, studying Applied Mathematics and Computer Science.
 
 I am interested in backend development, API design, QA testing, and data analysis.  
 Currently, I work with Python and FastAPI, learn testing practices, and improve my Data Science skills.
