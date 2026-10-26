@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;ML+%26+Intelligent+Systems;Search+%26+Q%26A+over+documents;Hackathon+Team+Lead+%40+WWTeam" alt="Typing SVG" />
 </a>
 
-**Backend / ML-разработчик · Студент ПМИ, Финансовый университет**
+**Backend / ML-разработчик · Студент ПМ, Финансовый университет**
 
 [![Email](https://img.shields.io/badge/Email-nik.korobkow%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nik.korobkow@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@whyam__i-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whyam_i)
